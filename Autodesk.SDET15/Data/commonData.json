@@ -1,0 +1,8 @@
+{
+"browser": "chrome",
+"username": "admin",
+"password": "admin",
+"organization":"Right_Engineering",
+"industry":"Banking",
+"url": "http://localhost:8888"
+}
